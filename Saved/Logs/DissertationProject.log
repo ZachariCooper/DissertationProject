@@ -788,3 +788,59 @@ LogInit: Object subsystem initialized
 [2018.02.10-15.42.40:613][278]LogSavePackage: Save=80.07ms
 [2018.02.10-15.42.40:613][278]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/ThirdPersonExampleMap_BuiltDataD63640754CD886349B86709E650ACF85.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.02.10-15.42.40:614][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.10-15.46.53:924][388]LogSavePackage: Save=107.59ms
+[2018.02.10-15.46.53:925][388]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/ThirdPersonExampleMap2965CF1A43B9545839394B8BB8A406D8.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.10-15.46.53:927][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.10-15.46.54:050][388]LogSavePackage: Save=80.46ms
+[2018.02.10-15.46.54:050][388]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/ThirdPersonExampleMap_BuiltData9991EE5A4F5DD6365EBD6C99895AC9CC.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.10-15.46.54:053][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.10-15.50.12:088][  6]LogSavePackage: Save=113.81ms
+[2018.02.10-15.50.12:088][  6]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/ThirdPersonExampleMapE218F77C4AE3466745D99494E34684C5.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.10-15.50.12:092][  6]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.10-15.50.12:212][  6]LogSavePackage: Save=79.41ms
+[2018.02.10-15.50.12:212][  6]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/ThirdPersonExampleMap_BuiltDataC101CCE44C6DA1BC39E24BA38A25EDDC.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.10-15.50.12:213][  6]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.10-16.00.12:587][871]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.020
+[2018.02.10-16.00.12:589][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.02.10-16.00.12:601][871]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.02.10-16.00.12:602][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.02.10-16.00.12:711][871]LogSavePackage: Save=98.96ms
+[2018.02.10-16.00.12:711][871]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/ThirdPersonCharacter_Auto1665AE45949E7F76618F44DA4D421C11E.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.02.10-16.00.12:713][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.02.10-16.00.12:714][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Music/Royalty_free_ukulele_FREE_ORIGINAL] ([1] browsable assets)...
+[2018.02.10-16.00.12:714][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Music/Royalty_free_ukulele_FREE_ORIGINAL]
+[2018.02.10-16.00.12:717][871]LogSavePackage: Save=2.37ms
+[2018.02.10-16.00.12:717][871]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Royalty_free_ukulele_FREE_ORIGINAL_Auto16BF1A95749CE0615C4FB2F84F016505E.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Music/Royalty_free_ukulele_FREE_ORIGINAL_Auto1.uasset'
+[2018.02.10-16.00.12:719][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Music/Royalty_free_ukulele_FREE_ORIGINAL_Auto1.uasset
+[2018.02.10-16.00.12:719][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Obstacles/Tutorial/WASD] ([1] browsable assets)...
+[2018.02.10-16.00.12:719][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Obstacles/Tutorial/WASD]
+[2018.02.10-16.00.12:731][871]LogSavePackage: Save=10.02ms
+[2018.02.10-16.00.12:731][871]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/WASD_Auto12A6F65F3413820641A029193CDF39DC5.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Obstacles/Tutorial/WASD_Auto1.uasset'
+[2018.02.10-16.00.12:732][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Obstacles/Tutorial/WASD_Auto1.uasset
+[2018.02.10-16.00.12:733][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Obstacles/Tutorial/Space] ([1] browsable assets)...
+[2018.02.10-16.00.12:733][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Obstacles/Tutorial/Space]
+[2018.02.10-16.00.12:751][871]LogSavePackage: Save=9.39ms
+[2018.02.10-16.00.12:751][871]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Space_Auto136DBE0A84F300BA719953996BF8290A0.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Obstacles/Tutorial/Space_Auto1.uasset'
+[2018.02.10-16.00.12:752][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Obstacles/Tutorial/Space_Auto1.uasset
+[2018.02.10-16.00.12:753][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Obstacles/Tutorial/Space2] ([1] browsable assets)...
+[2018.02.10-16.00.12:753][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Obstacles/Tutorial/Space2]
+[2018.02.10-16.00.12:771][871]LogSavePackage: Save=9.65ms
+[2018.02.10-16.00.12:771][871]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Space2_Auto1AEF334A2432F14A453CE1FB7645BC9C0.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Obstacles/Tutorial/Space2_Auto1.uasset'
+[2018.02.10-16.00.12:773][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Obstacles/Tutorial/Space2_Auto1.uasset
+[2018.02.10-16.00.12:773][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Obstacles/Tutorial/Leap] ([1] browsable assets)...
+[2018.02.10-16.00.12:774][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Obstacles/Tutorial/Leap]
+[2018.02.10-16.00.12:797][871]LogSavePackage: Save=13.27ms
+[2018.02.10-16.00.12:797][871]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Leap_Auto1E8173D1F47E16295C2B858B5D4205F62.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Obstacles/Tutorial/Leap_Auto1.uasset'
+[2018.02.10-16.00.12:798][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Obstacles/Tutorial/Leap_Auto1.uasset
+[2018.02.10-16.00.12:799][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Obstacles/Tutorial/Wall] ([1] browsable assets)...
+[2018.02.10-16.00.12:799][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Obstacles/Tutorial/Wall]
+[2018.02.10-16.00.12:818][871]LogSavePackage: Save=9.87ms
+[2018.02.10-16.00.12:818][871]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Wall_Auto13CDF11DB4494286C7FD52B8AE62DC641.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Obstacles/Tutorial/Wall_Auto1.uasset'
+[2018.02.10-16.00.12:819][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/Autosaves/Game/Obstacles/Tutorial/Wall_Auto1.uasset
+[2018.02.10-16.00.12:819][871]LogFileHelpers: Auto-saving content packages took 0.231
+[2018.02.10-16.04.58:377][ 94]LogSavePackage: Save=117.49ms
+[2018.02.10-16.04.58:377][ 94]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/ThirdPersonExampleMapEC6BA0FB458E9A4425FAC781682F42A4.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.10-16.04.58:379][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.10-16.04.58:528][ 94]LogSavePackage: Save=85.20ms
+[2018.02.10-16.04.58:528][ 94]LogSavePackage: Moving '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Saved/ThirdPersonExampleMap_BuiltData939B365347BCCF919638E5BBA2835171.tmp' to '../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.10-16.04.58:529][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Zachari/Downloads/Dissertation Work/DissertationProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
